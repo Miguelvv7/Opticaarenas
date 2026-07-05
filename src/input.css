@@ -70,7 +70,7 @@
   .grad-text { background: linear-gradient(135deg,#EAF9FC,#E6F4F7); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
 
   /* ── Hero overlay ── */
-  .hero-ov { background: linear-gradient(110deg, rgba(44,110,127,.9) 0%, rgba(44,110,127,.65) 55%, rgba(44,110,127,.1) 100%); }
+  .hero-ov { background: linear-gradient(110deg, rgba(10,32,37,.92) 0%, rgba(10,32,37,.7) 55%, rgba(10,32,37,.15) 100%); }
 
   /* ── WhatsApp pulse ── */
   @keyframes wa-pulse { 0%,100% { box-shadow: 0 0 0 0 rgba(37,211,102,.5); } 70% { box-shadow: 0 0 0 14px rgba(37,211,102,0); } }
