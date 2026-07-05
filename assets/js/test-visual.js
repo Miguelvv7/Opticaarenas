@@ -30,7 +30,7 @@ function tvBuildDial() {
   circle.setAttribute('cx', '100');
   circle.setAttribute('cy', '100');
   circle.setAttribute('r', '4');
-  circle.setAttribute('fill', '#0061a5');
+  circle.setAttribute('fill', '#4A9DB0');
   svg.appendChild(circle);
 }
 
